@@ -1,1 +1,0 @@
-# Angular-3D-Objects-with-GLB-File
